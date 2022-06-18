@@ -1,0 +1,298 @@
+E:\개인프젝자료\장폐색\개발\1. Ileus\1. Ileus\bin\Debug\_1.Ileus.exe.config
+E:\개인프젝자료\장폐색\개발\1. Ileus\1. Ileus\bin\Debug\_1.Ileus.exe
+E:\개인프젝자료\장폐색\개발\1. Ileus\1. Ileus\bin\Debug\_1.Ileus.pdb
+E:\개인프젝자료\장폐색\개발\1. Ileus\1. Ileus\obj\Debug\_1.Ileus.Form1.resources
+E:\개인프젝자료\장폐색\개발\1. Ileus\1. Ileus\obj\Debug\_1.Ileus.Properties.Resources.resources
+E:\개인프젝자료\장폐색\개발\1. Ileus\1. Ileus\obj\Debug\1. Ileus.csproj.GenerateResource.cache
+E:\개인프젝자료\장폐색\개발\1. Ileus\1. Ileus\obj\Debug\1. Ileus.csproj.CoreCompileInputs.cache
+E:\개인프젝자료\장폐색\개발\1. Ileus\1. Ileus\obj\Debug\_1.Ileus.exe
+E:\개인프젝자료\장폐색\개발\1. Ileus\1. Ileus\obj\Debug\_1.Ileus.pdb
+E:\개인프젝자료\장폐색\개발\1. Ileus\1. Ileus\obj\Debug\1. Ileus.csprojAssemblyReference.cache
+D:\개인프젝자료\장폐색\개발\1. Ileus\1. Ileus\bin\Debug\_1.Ileus.exe.config
+D:\개인프젝자료\장폐색\개발\1. Ileus\1. Ileus\bin\Debug\_1.Ileus.exe
+D:\개인프젝자료\장폐색\개발\1. Ileus\1. Ileus\bin\Debug\_1.Ileus.pdb
+D:\개인프젝자료\장폐색\개발\1. Ileus\1. Ileus\obj\Debug\1. Ileus.csprojAssemblyReference.cache
+D:\개인프젝자료\장폐색\개발\1. Ileus\1. Ileus\obj\Debug\_1.Ileus.Form1.resources
+D:\개인프젝자료\장폐색\개발\1. Ileus\1. Ileus\obj\Debug\_1.Ileus.Properties.Resources.resources
+D:\개인프젝자료\장폐색\개발\1. Ileus\1. Ileus\obj\Debug\1. Ileus.csproj.GenerateResource.cache
+D:\개인프젝자료\장폐색\개발\1. Ileus\1. Ileus\obj\Debug\1. Ileus.csproj.CoreCompileInputs.cache
+D:\개인프젝자료\장폐색\개발\1. Ileus\1. Ileus\obj\Debug\_1.Ileus.exe
+D:\개인프젝자료\장폐색\개발\1. Ileus\1. Ileus\obj\Debug\_1.Ileus.pdb
+E:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\_1.Ileus.exe.config
+E:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\_1.Ileus.exe
+E:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\_1.Ileus.pdb
+E:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\obj\Debug\1. Ileus.csprojAssemblyReference.cache
+E:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\obj\Debug\_1.Ileus.Form1.resources
+E:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\obj\Debug\_1.Ileus.Properties.Resources.resources
+E:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\obj\Debug\1. Ileus.csproj.GenerateResource.cache
+E:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\obj\Debug\1. Ileus.csproj.CoreCompileInputs.cache
+E:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\obj\Debug\_1.Ileus.exe
+E:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\obj\Debug\_1.Ileus.pdb
+F:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\_1.Ileus.exe.config
+F:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\_1.Ileus.exe
+F:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\_1.Ileus.pdb
+F:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\obj\Debug\1. Ileus.csprojAssemblyReference.cache
+F:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\obj\Debug\_1.Ileus.Form1.resources
+F:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\obj\Debug\_1.Ileus.Properties.Resources.resources
+F:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\obj\Debug\1. Ileus.csproj.GenerateResource.cache
+F:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\obj\Debug\1. Ileus.csproj.CoreCompileInputs.cache
+F:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\obj\Debug\_1.Ileus.exe
+F:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\obj\Debug\_1.Ileus.pdb
+E:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+E:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x86\msvcp120.dll
+E:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x86\msvcr120.dll
+E:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x86\opencv_calib3d2410.dll
+E:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x86\opencv_contrib2410.dll
+E:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x86\opencv_core2410.dll
+E:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x86\opencv_features2d2410.dll
+E:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x86\opencv_ffmpeg2410.dll
+E:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x86\opencv_flann2410.dll
+E:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x86\opencv_gpu2410.dll
+E:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x86\opencv_highgui2410.dll
+E:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x86\opencv_imgproc2410.dll
+E:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x86\opencv_legacy2410.dll
+E:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x86\opencv_ml2410.dll
+E:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x86\opencv_nonfree2410.dll
+E:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x86\opencv_objdetect2410.dll
+E:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x86\opencv_ocl2410.dll
+E:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x86\opencv_photo2410.dll
+E:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x86\opencv_stitching2410.dll
+E:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x86\opencv_superres2410.dll
+E:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x86\opencv_video2410.dll
+E:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x86\opencv_videostab2410.dll
+E:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x64\msvcp120.dll
+E:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x64\msvcr120.dll
+E:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x64\opencv_calib3d2410.dll
+E:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x64\opencv_contrib2410.dll
+E:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x64\opencv_core2410.dll
+E:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x64\opencv_features2d2410.dll
+E:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x64\opencv_ffmpeg2410_64.dll
+E:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x64\opencv_flann2410.dll
+E:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x64\opencv_gpu2410.dll
+E:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x64\opencv_highgui2410.dll
+E:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x64\opencv_imgproc2410.dll
+E:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x64\opencv_legacy2410.dll
+E:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x64\opencv_ml2410.dll
+E:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x64\opencv_nonfree2410.dll
+E:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x64\opencv_objdetect2410.dll
+E:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x64\opencv_ocl2410.dll
+E:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x64\opencv_photo2410.dll
+E:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x64\opencv_stitching2410.dll
+E:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x64\opencv_superres2410.dll
+E:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x64\opencv_video2410.dll
+E:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x64\opencv_videostab2410.dll
+E:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+E:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\OpenCvSharp.Blob.dll
+E:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\OpenCvSharp.CPlusPlus.dll
+E:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\OpenCvSharp.dll
+E:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\OpenCvSharp.Extensions.dll
+E:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\OpenCvSharp.UserInterface.dll
+E:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\OpenCvSharp.xml
+E:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\OpenCvSharp.dll.config
+E:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\OpenCvSharp.Blob.xml
+E:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\OpenCvSharp.Blob.dll.config
+E:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\OpenCvSharp.CPlusPlus.xml
+E:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\OpenCvSharp.CPlusPlus.dll.config
+E:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\OpenCvSharp.Extensions.xml
+E:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\obj\Debug\1. Ileus.csproj.CopyComplete
+D:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+D:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x86\msvcp120.dll
+D:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x86\msvcr120.dll
+D:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x86\opencv_calib3d2410.dll
+D:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x86\opencv_contrib2410.dll
+D:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x86\opencv_core2410.dll
+D:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x86\opencv_features2d2410.dll
+D:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x86\opencv_ffmpeg2410.dll
+D:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x86\opencv_flann2410.dll
+D:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x86\opencv_gpu2410.dll
+D:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x86\opencv_highgui2410.dll
+D:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x86\opencv_imgproc2410.dll
+D:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x86\opencv_legacy2410.dll
+D:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x86\opencv_ml2410.dll
+D:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x86\opencv_nonfree2410.dll
+D:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x86\opencv_objdetect2410.dll
+D:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x86\opencv_ocl2410.dll
+D:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x86\opencv_photo2410.dll
+D:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x86\opencv_stitching2410.dll
+D:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x86\opencv_superres2410.dll
+D:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x86\opencv_video2410.dll
+D:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x86\opencv_videostab2410.dll
+D:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x64\msvcp120.dll
+D:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x64\msvcr120.dll
+D:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x64\opencv_calib3d2410.dll
+D:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x64\opencv_contrib2410.dll
+D:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x64\opencv_core2410.dll
+D:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x64\opencv_features2d2410.dll
+D:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x64\opencv_ffmpeg2410_64.dll
+D:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x64\opencv_flann2410.dll
+D:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x64\opencv_gpu2410.dll
+D:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x64\opencv_highgui2410.dll
+D:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x64\opencv_imgproc2410.dll
+D:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x64\opencv_legacy2410.dll
+D:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x64\opencv_ml2410.dll
+D:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x64\opencv_nonfree2410.dll
+D:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x64\opencv_objdetect2410.dll
+D:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x64\opencv_ocl2410.dll
+D:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x64\opencv_photo2410.dll
+D:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x64\opencv_stitching2410.dll
+D:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x64\opencv_superres2410.dll
+D:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x64\opencv_video2410.dll
+D:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x64\opencv_videostab2410.dll
+D:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+D:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\_1.Ileus.exe.config
+D:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\_1.Ileus.exe
+D:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\_1.Ileus.pdb
+D:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\OpenCvSharp.Blob.dll
+D:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\OpenCvSharp.CPlusPlus.dll
+D:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\OpenCvSharp.dll
+D:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\OpenCvSharp.Extensions.dll
+D:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\OpenCvSharp.UserInterface.dll
+D:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\OpenCvSharp.xml
+D:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\OpenCvSharp.dll.config
+D:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\OpenCvSharp.Blob.xml
+D:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\OpenCvSharp.Blob.dll.config
+D:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\OpenCvSharp.CPlusPlus.xml
+D:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\OpenCvSharp.CPlusPlus.dll.config
+D:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\bin\Debug\OpenCvSharp.Extensions.xml
+D:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\obj\Debug\1. Ileus.csprojResolveAssemblyReference.cache
+D:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\obj\Debug\_1.Ileus.Form1.resources
+D:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\obj\Debug\_1.Ileus.Properties.Resources.resources
+D:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\obj\Debug\1. Ileus.csproj.GenerateResource.cache
+D:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\obj\Debug\1. Ileus.csproj.CoreCompileInputs.cache
+D:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\obj\Debug\1. Ileus.csproj.CopyComplete
+D:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\obj\Debug\_1.Ileus.exe
+D:\개인프젝자료\장폐색\개발\3. Ileus\1. Ileus\obj\Debug\_1.Ileus.pdb
+D:\왕준혁\프로젝트 및 공부\7. 장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+D:\왕준혁\프로젝트 및 공부\7. 장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x86\msvcp120.dll
+D:\왕준혁\프로젝트 및 공부\7. 장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x86\msvcr120.dll
+D:\왕준혁\프로젝트 및 공부\7. 장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x86\opencv_calib3d2410.dll
+D:\왕준혁\프로젝트 및 공부\7. 장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x86\opencv_contrib2410.dll
+D:\왕준혁\프로젝트 및 공부\7. 장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x86\opencv_core2410.dll
+D:\왕준혁\프로젝트 및 공부\7. 장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x86\opencv_features2d2410.dll
+D:\왕준혁\프로젝트 및 공부\7. 장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x86\opencv_ffmpeg2410.dll
+D:\왕준혁\프로젝트 및 공부\7. 장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x86\opencv_flann2410.dll
+D:\왕준혁\프로젝트 및 공부\7. 장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x86\opencv_gpu2410.dll
+D:\왕준혁\프로젝트 및 공부\7. 장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x86\opencv_highgui2410.dll
+D:\왕준혁\프로젝트 및 공부\7. 장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x86\opencv_imgproc2410.dll
+D:\왕준혁\프로젝트 및 공부\7. 장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x86\opencv_legacy2410.dll
+D:\왕준혁\프로젝트 및 공부\7. 장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x86\opencv_ml2410.dll
+D:\왕준혁\프로젝트 및 공부\7. 장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x86\opencv_nonfree2410.dll
+D:\왕준혁\프로젝트 및 공부\7. 장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x86\opencv_objdetect2410.dll
+D:\왕준혁\프로젝트 및 공부\7. 장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x86\opencv_ocl2410.dll
+D:\왕준혁\프로젝트 및 공부\7. 장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x86\opencv_photo2410.dll
+D:\왕준혁\프로젝트 및 공부\7. 장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x86\opencv_stitching2410.dll
+D:\왕준혁\프로젝트 및 공부\7. 장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x86\opencv_superres2410.dll
+D:\왕준혁\프로젝트 및 공부\7. 장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x86\opencv_video2410.dll
+D:\왕준혁\프로젝트 및 공부\7. 장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x86\opencv_videostab2410.dll
+D:\왕준혁\프로젝트 및 공부\7. 장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x64\msvcp120.dll
+D:\왕준혁\프로젝트 및 공부\7. 장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x64\msvcr120.dll
+D:\왕준혁\프로젝트 및 공부\7. 장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x64\opencv_calib3d2410.dll
+D:\왕준혁\프로젝트 및 공부\7. 장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x64\opencv_contrib2410.dll
+D:\왕준혁\프로젝트 및 공부\7. 장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x64\opencv_core2410.dll
+D:\왕준혁\프로젝트 및 공부\7. 장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x64\opencv_features2d2410.dll
+D:\왕준혁\프로젝트 및 공부\7. 장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x64\opencv_ffmpeg2410_64.dll
+D:\왕준혁\프로젝트 및 공부\7. 장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x64\opencv_flann2410.dll
+D:\왕준혁\프로젝트 및 공부\7. 장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x64\opencv_gpu2410.dll
+D:\왕준혁\프로젝트 및 공부\7. 장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x64\opencv_highgui2410.dll
+D:\왕준혁\프로젝트 및 공부\7. 장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x64\opencv_imgproc2410.dll
+D:\왕준혁\프로젝트 및 공부\7. 장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x64\opencv_legacy2410.dll
+D:\왕준혁\프로젝트 및 공부\7. 장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x64\opencv_ml2410.dll
+D:\왕준혁\프로젝트 및 공부\7. 장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x64\opencv_nonfree2410.dll
+D:\왕준혁\프로젝트 및 공부\7. 장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x64\opencv_objdetect2410.dll
+D:\왕준혁\프로젝트 및 공부\7. 장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x64\opencv_ocl2410.dll
+D:\왕준혁\프로젝트 및 공부\7. 장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x64\opencv_photo2410.dll
+D:\왕준혁\프로젝트 및 공부\7. 장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x64\opencv_stitching2410.dll
+D:\왕준혁\프로젝트 및 공부\7. 장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x64\opencv_superres2410.dll
+D:\왕준혁\프로젝트 및 공부\7. 장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x64\opencv_video2410.dll
+D:\왕준혁\프로젝트 및 공부\7. 장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x64\opencv_videostab2410.dll
+D:\왕준혁\프로젝트 및 공부\7. 장폐색\개발\3. Ileus\1. Ileus\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+D:\왕준혁\프로젝트 및 공부\7. 장폐색\개발\3. Ileus\1. Ileus\bin\Debug\_1.Ileus.exe.config
+D:\왕준혁\프로젝트 및 공부\7. 장폐색\개발\3. Ileus\1. Ileus\bin\Debug\_1.Ileus.exe
+D:\왕준혁\프로젝트 및 공부\7. 장폐색\개발\3. Ileus\1. Ileus\bin\Debug\_1.Ileus.pdb
+D:\왕준혁\프로젝트 및 공부\7. 장폐색\개발\3. Ileus\1. Ileus\bin\Debug\OpenCvSharp.Blob.dll
+D:\왕준혁\프로젝트 및 공부\7. 장폐색\개발\3. Ileus\1. Ileus\bin\Debug\OpenCvSharp.CPlusPlus.dll
+D:\왕준혁\프로젝트 및 공부\7. 장폐색\개발\3. Ileus\1. Ileus\bin\Debug\OpenCvSharp.dll
+D:\왕준혁\프로젝트 및 공부\7. 장폐색\개발\3. Ileus\1. Ileus\bin\Debug\OpenCvSharp.Extensions.dll
+D:\왕준혁\프로젝트 및 공부\7. 장폐색\개발\3. Ileus\1. Ileus\bin\Debug\OpenCvSharp.UserInterface.dll
+D:\왕준혁\프로젝트 및 공부\7. 장폐색\개발\3. Ileus\1. Ileus\bin\Debug\OpenCvSharp.xml
+D:\왕준혁\프로젝트 및 공부\7. 장폐색\개발\3. Ileus\1. Ileus\bin\Debug\OpenCvSharp.dll.config
+D:\왕준혁\프로젝트 및 공부\7. 장폐색\개발\3. Ileus\1. Ileus\bin\Debug\OpenCvSharp.Blob.xml
+D:\왕준혁\프로젝트 및 공부\7. 장폐색\개발\3. Ileus\1. Ileus\bin\Debug\OpenCvSharp.Blob.dll.config
+D:\왕준혁\프로젝트 및 공부\7. 장폐색\개발\3. Ileus\1. Ileus\bin\Debug\OpenCvSharp.CPlusPlus.xml
+D:\왕준혁\프로젝트 및 공부\7. 장폐색\개발\3. Ileus\1. Ileus\bin\Debug\OpenCvSharp.CPlusPlus.dll.config
+D:\왕준혁\프로젝트 및 공부\7. 장폐색\개발\3. Ileus\1. Ileus\bin\Debug\OpenCvSharp.Extensions.xml
+D:\왕준혁\프로젝트 및 공부\7. 장폐색\개발\3. Ileus\1. Ileus\obj\Debug\1. Ileus.csprojAssemblyReference.cache
+D:\왕준혁\프로젝트 및 공부\7. 장폐색\개발\3. Ileus\1. Ileus\obj\Debug\_1.Ileus.Form1.resources
+D:\왕준혁\프로젝트 및 공부\7. 장폐색\개발\3. Ileus\1. Ileus\obj\Debug\_1.Ileus.Properties.Resources.resources
+D:\왕준혁\프로젝트 및 공부\7. 장폐색\개발\3. Ileus\1. Ileus\obj\Debug\1. Ileus.csproj.GenerateResource.cache
+D:\왕준혁\프로젝트 및 공부\7. 장폐색\개발\3. Ileus\1. Ileus\obj\Debug\1. Ileus.csproj.CoreCompileInputs.cache
+D:\왕준혁\프로젝트 및 공부\7. 장폐색\개발\3. Ileus\1. Ileus\obj\Debug\1. Ileus.csproj.CopyComplete
+D:\왕준혁\프로젝트 및 공부\7. 장폐색\개발\3. Ileus\1. Ileus\obj\Debug\_1.Ileus.exe
+D:\왕준혁\프로젝트 및 공부\7. 장폐색\개발\3. Ileus\1. Ileus\obj\Debug\_1.Ileus.pdb
+D:\왕준혁\프로젝트 및 공부\git\Ileus-detection\develope\3. Ileus\1. Ileus\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+D:\왕준혁\프로젝트 및 공부\git\Ileus-detection\develope\3. Ileus\1. Ileus\bin\Debug\dll\x86\msvcp120.dll
+D:\왕준혁\프로젝트 및 공부\git\Ileus-detection\develope\3. Ileus\1. Ileus\bin\Debug\dll\x86\msvcr120.dll
+D:\왕준혁\프로젝트 및 공부\git\Ileus-detection\develope\3. Ileus\1. Ileus\bin\Debug\dll\x86\opencv_calib3d2410.dll
+D:\왕준혁\프로젝트 및 공부\git\Ileus-detection\develope\3. Ileus\1. Ileus\bin\Debug\dll\x86\opencv_contrib2410.dll
+D:\왕준혁\프로젝트 및 공부\git\Ileus-detection\develope\3. Ileus\1. Ileus\bin\Debug\dll\x86\opencv_core2410.dll
+D:\왕준혁\프로젝트 및 공부\git\Ileus-detection\develope\3. Ileus\1. Ileus\bin\Debug\dll\x86\opencv_features2d2410.dll
+D:\왕준혁\프로젝트 및 공부\git\Ileus-detection\develope\3. Ileus\1. Ileus\bin\Debug\dll\x86\opencv_ffmpeg2410.dll
+D:\왕준혁\프로젝트 및 공부\git\Ileus-detection\develope\3. Ileus\1. Ileus\bin\Debug\dll\x86\opencv_flann2410.dll
+D:\왕준혁\프로젝트 및 공부\git\Ileus-detection\develope\3. Ileus\1. Ileus\bin\Debug\dll\x86\opencv_gpu2410.dll
+D:\왕준혁\프로젝트 및 공부\git\Ileus-detection\develope\3. Ileus\1. Ileus\bin\Debug\dll\x86\opencv_highgui2410.dll
+D:\왕준혁\프로젝트 및 공부\git\Ileus-detection\develope\3. Ileus\1. Ileus\bin\Debug\dll\x86\opencv_imgproc2410.dll
+D:\왕준혁\프로젝트 및 공부\git\Ileus-detection\develope\3. Ileus\1. Ileus\bin\Debug\dll\x86\opencv_legacy2410.dll
+D:\왕준혁\프로젝트 및 공부\git\Ileus-detection\develope\3. Ileus\1. Ileus\bin\Debug\dll\x86\opencv_ml2410.dll
+D:\왕준혁\프로젝트 및 공부\git\Ileus-detection\develope\3. Ileus\1. Ileus\bin\Debug\dll\x86\opencv_nonfree2410.dll
+D:\왕준혁\프로젝트 및 공부\git\Ileus-detection\develope\3. Ileus\1. Ileus\bin\Debug\dll\x86\opencv_objdetect2410.dll
+D:\왕준혁\프로젝트 및 공부\git\Ileus-detection\develope\3. Ileus\1. Ileus\bin\Debug\dll\x86\opencv_ocl2410.dll
+D:\왕준혁\프로젝트 및 공부\git\Ileus-detection\develope\3. Ileus\1. Ileus\bin\Debug\dll\x86\opencv_photo2410.dll
+D:\왕준혁\프로젝트 및 공부\git\Ileus-detection\develope\3. Ileus\1. Ileus\bin\Debug\dll\x86\opencv_stitching2410.dll
+D:\왕준혁\프로젝트 및 공부\git\Ileus-detection\develope\3. Ileus\1. Ileus\bin\Debug\dll\x86\opencv_superres2410.dll
+D:\왕준혁\프로젝트 및 공부\git\Ileus-detection\develope\3. Ileus\1. Ileus\bin\Debug\dll\x86\opencv_video2410.dll
+D:\왕준혁\프로젝트 및 공부\git\Ileus-detection\develope\3. Ileus\1. Ileus\bin\Debug\dll\x86\opencv_videostab2410.dll
+D:\왕준혁\프로젝트 및 공부\git\Ileus-detection\develope\3. Ileus\1. Ileus\bin\Debug\dll\x64\msvcp120.dll
+D:\왕준혁\프로젝트 및 공부\git\Ileus-detection\develope\3. Ileus\1. Ileus\bin\Debug\dll\x64\msvcr120.dll
+D:\왕준혁\프로젝트 및 공부\git\Ileus-detection\develope\3. Ileus\1. Ileus\bin\Debug\dll\x64\opencv_calib3d2410.dll
+D:\왕준혁\프로젝트 및 공부\git\Ileus-detection\develope\3. Ileus\1. Ileus\bin\Debug\dll\x64\opencv_contrib2410.dll
+D:\왕준혁\프로젝트 및 공부\git\Ileus-detection\develope\3. Ileus\1. Ileus\bin\Debug\dll\x64\opencv_core2410.dll
+D:\왕준혁\프로젝트 및 공부\git\Ileus-detection\develope\3. Ileus\1. Ileus\bin\Debug\dll\x64\opencv_features2d2410.dll
+D:\왕준혁\프로젝트 및 공부\git\Ileus-detection\develope\3. Ileus\1. Ileus\bin\Debug\dll\x64\opencv_ffmpeg2410_64.dll
+D:\왕준혁\프로젝트 및 공부\git\Ileus-detection\develope\3. Ileus\1. Ileus\bin\Debug\dll\x64\opencv_flann2410.dll
+D:\왕준혁\프로젝트 및 공부\git\Ileus-detection\develope\3. Ileus\1. Ileus\bin\Debug\dll\x64\opencv_gpu2410.dll
+D:\왕준혁\프로젝트 및 공부\git\Ileus-detection\develope\3. Ileus\1. Ileus\bin\Debug\dll\x64\opencv_highgui2410.dll
+D:\왕준혁\프로젝트 및 공부\git\Ileus-detection\develope\3. Ileus\1. Ileus\bin\Debug\dll\x64\opencv_imgproc2410.dll
+D:\왕준혁\프로젝트 및 공부\git\Ileus-detection\develope\3. Ileus\1. Ileus\bin\Debug\dll\x64\opencv_legacy2410.dll
+D:\왕준혁\프로젝트 및 공부\git\Ileus-detection\develope\3. Ileus\1. Ileus\bin\Debug\dll\x64\opencv_ml2410.dll
+D:\왕준혁\프로젝트 및 공부\git\Ileus-detection\develope\3. Ileus\1. Ileus\bin\Debug\dll\x64\opencv_nonfree2410.dll
+D:\왕준혁\프로젝트 및 공부\git\Ileus-detection\develope\3. Ileus\1. Ileus\bin\Debug\dll\x64\opencv_objdetect2410.dll
+D:\왕준혁\프로젝트 및 공부\git\Ileus-detection\develope\3. Ileus\1. Ileus\bin\Debug\dll\x64\opencv_ocl2410.dll
+D:\왕준혁\프로젝트 및 공부\git\Ileus-detection\develope\3. Ileus\1. Ileus\bin\Debug\dll\x64\opencv_photo2410.dll
+D:\왕준혁\프로젝트 및 공부\git\Ileus-detection\develope\3. Ileus\1. Ileus\bin\Debug\dll\x64\opencv_stitching2410.dll
+D:\왕준혁\프로젝트 및 공부\git\Ileus-detection\develope\3. Ileus\1. Ileus\bin\Debug\dll\x64\opencv_superres2410.dll
+D:\왕준혁\프로젝트 및 공부\git\Ileus-detection\develope\3. Ileus\1. Ileus\bin\Debug\dll\x64\opencv_video2410.dll
+D:\왕준혁\프로젝트 및 공부\git\Ileus-detection\develope\3. Ileus\1. Ileus\bin\Debug\dll\x64\opencv_videostab2410.dll
+D:\왕준혁\프로젝트 및 공부\git\Ileus-detection\develope\3. Ileus\1. Ileus\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+D:\왕준혁\프로젝트 및 공부\git\Ileus-detection\develope\3. Ileus\1. Ileus\bin\Debug\_1.Ileus.exe.config
+D:\왕준혁\프로젝트 및 공부\git\Ileus-detection\develope\3. Ileus\1. Ileus\bin\Debug\_1.Ileus.exe
+D:\왕준혁\프로젝트 및 공부\git\Ileus-detection\develope\3. Ileus\1. Ileus\bin\Debug\_1.Ileus.pdb
+D:\왕준혁\프로젝트 및 공부\git\Ileus-detection\develope\3. Ileus\1. Ileus\bin\Debug\OpenCvSharp.Blob.dll
+D:\왕준혁\프로젝트 및 공부\git\Ileus-detection\develope\3. Ileus\1. Ileus\bin\Debug\OpenCvSharp.CPlusPlus.dll
+D:\왕준혁\프로젝트 및 공부\git\Ileus-detection\develope\3. Ileus\1. Ileus\bin\Debug\OpenCvSharp.dll
+D:\왕준혁\프로젝트 및 공부\git\Ileus-detection\develope\3. Ileus\1. Ileus\bin\Debug\OpenCvSharp.Extensions.dll
+D:\왕준혁\프로젝트 및 공부\git\Ileus-detection\develope\3. Ileus\1. Ileus\bin\Debug\OpenCvSharp.UserInterface.dll
+D:\왕준혁\프로젝트 및 공부\git\Ileus-detection\develope\3. Ileus\1. Ileus\bin\Debug\OpenCvSharp.xml
+D:\왕준혁\프로젝트 및 공부\git\Ileus-detection\develope\3. Ileus\1. Ileus\bin\Debug\OpenCvSharp.dll.config
+D:\왕준혁\프로젝트 및 공부\git\Ileus-detection\develope\3. Ileus\1. Ileus\bin\Debug\OpenCvSharp.Blob.xml
+D:\왕준혁\프로젝트 및 공부\git\Ileus-detection\develope\3. Ileus\1. Ileus\bin\Debug\OpenCvSharp.Blob.dll.config
+D:\왕준혁\프로젝트 및 공부\git\Ileus-detection\develope\3. Ileus\1. Ileus\bin\Debug\OpenCvSharp.CPlusPlus.xml
+D:\왕준혁\프로젝트 및 공부\git\Ileus-detection\develope\3. Ileus\1. Ileus\bin\Debug\OpenCvSharp.CPlusPlus.dll.config
+D:\왕준혁\프로젝트 및 공부\git\Ileus-detection\develope\3. Ileus\1. Ileus\bin\Debug\OpenCvSharp.Extensions.xml
+D:\왕준혁\프로젝트 및 공부\git\Ileus-detection\develope\3. Ileus\1. Ileus\obj\Debug\1. Ileus.csprojAssemblyReference.cache
+D:\왕준혁\프로젝트 및 공부\git\Ileus-detection\develope\3. Ileus\1. Ileus\obj\Debug\_1.Ileus.Form1.resources
+D:\왕준혁\프로젝트 및 공부\git\Ileus-detection\develope\3. Ileus\1. Ileus\obj\Debug\_1.Ileus.Properties.Resources.resources
+D:\왕준혁\프로젝트 및 공부\git\Ileus-detection\develope\3. Ileus\1. Ileus\obj\Debug\1. Ileus.csproj.GenerateResource.cache
+D:\왕준혁\프로젝트 및 공부\git\Ileus-detection\develope\3. Ileus\1. Ileus\obj\Debug\1. Ileus.csproj.CoreCompileInputs.cache
+D:\왕준혁\프로젝트 및 공부\git\Ileus-detection\develope\3. Ileus\1. Ileus\obj\Debug\1. Ileus.csproj.CopyComplete
+D:\왕준혁\프로젝트 및 공부\git\Ileus-detection\develope\3. Ileus\1. Ileus\obj\Debug\_1.Ileus.exe
+D:\왕준혁\프로젝트 및 공부\git\Ileus-detection\develope\3. Ileus\1. Ileus\obj\Debug\_1.Ileus.pdb
